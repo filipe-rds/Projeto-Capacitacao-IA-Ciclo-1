@@ -10,8 +10,8 @@
   <img src="https://d1fdloi71mui9q.cloudfront.net/3tNJc9kYQVKTSNDhqS77_koclYt8UJf3834g9" height="600" width="600"><br>
 </div>
 <div style="display: inline_block"  ><br>
-    <h3>✅ Objetivo:</h3>
-    <p>Construir um projeto que respeite as <a href="">regras de negócio</a> estabelecidas previamente pelo professor Thiago Moura</p>
+    <h3>✅ Objetivo</h3>
+    <p>Construir um projeto que respeite as <a href="https://github.com/filipe-rds/Projeto_Capacitacao_IA_Ciclo_1/blob/main/Projeto%20Final%20-%20Ciclo%201.pdf">regras de negócio</a> estabelecidas previamente pelo professor Thiago Moura</p>
 </div>
 <div style="display: inline_block" ><br>
     <h3>💻 Tecnologias e Ferramentas </h3>
